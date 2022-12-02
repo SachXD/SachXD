@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [The Frontend Path](https://scrimba.com/learn/frontend)
 
-- 🌱 I’m currently learning **Rust, JavaScript, Solidity**
+- 🌱 I’m currently learning **Rust, JavaScript, React**
 
 - 💬 Ask me about **Java, Python, DSA**
 
