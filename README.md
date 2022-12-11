@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Ananth!](https://bio.link/sachxd) 
 ![](https://64.media.tumblr.com/c423e45572d53972d8411a0b3a57fab3/tumblr_inline_nskotvbc2e1r9hj61_500.jpg)
-### I'm a Web2/Web3 & DevOps Enthusiast from India!
+### I'm a Web2/Web3 Enthusiast from India!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachxd&label=Profile%20views&color=0e75b6&style=flat" alt="sachxd" /> </p>
 
