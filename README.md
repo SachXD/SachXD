@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachxd&show_icons=true&locale=en" alt="sachxd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachxd&" alt="sachxd" /></p>
+
+## HacktoberFest 22'
+
+[![An image of @sachxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachxd)](https://holopin.io/@sachxd)
