@@ -2,8 +2,6 @@
 ![](https://64.media.tumblr.com/c423e45572d53972d8411a0b3a57fab3/tumblr_inline_nskotvbc2e1r9hj61_500.jpg)
 ### I'm a Web2/Web3 Enthusiast from India!
 
-<a href="https://app.daily.dev/SachXD"><img src="https://api.daily.dev/devcards/62b3645fa421411398cad35f337e9d89.png?r=tu0" width="400" align="right" alt="SachXD's Dev Card"/></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachxd&label=Profile%20views&color=0e75b6&style=flat" alt="sachxd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aanxand" target="blank"><img src="https://img.shields.io/twitter/follow/aanxand?logo=twitter&style=for-the-badge" alt="aanxand" /></a> </p>
